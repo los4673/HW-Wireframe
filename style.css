@@ -1,0 +1,39 @@
+/* .header {
+    text-align: center;
+
+} */
+
+.boxed {
+    background-color: #ebebeb;
+    z-index: 1;
+    text-align: center;
+}
+
+.body {
+   font-family: "Arial";
+   color: #777;
+   background-color: #777;
+   width: 960px;
+   font-size: 18px;
+}
+
+.Aside {
+    background-color: #ebebeb;
+    z-index: 2;
+}
+
+.footer, nav, section, Aside, footer{
+    background-color: #ebebeb
+}
+
+.footer {
+    text-align: center;
+}
+
+/* .boxed nav {
+    text-align: center;
+} */
+
+.section {
+    background-color: #ebebeb;
+}
